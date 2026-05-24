@@ -1,0 +1,6 @@
+{
+  "name": "OsseoTech",
+  "description": "The New Standard in Dental Implantation - High-fidelity interactive dental implant solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
